@@ -4,7 +4,7 @@
   <a href="https://www.instagram.com/emmanuel.campisi/">Instagram</a> •
 </p>
 
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+<img align="right" height="150rem" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBrcGlybWVwcW0zd2xrYmVmZ2Q1MmVkdHkza3N5dGxiaWdzOXFybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 

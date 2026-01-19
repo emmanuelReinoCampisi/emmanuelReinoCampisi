@@ -12,7 +12,7 @@
 - 🌱  Estoy aprendiendo Java y SpringBoot. 
 - 💬  Dispuesto a colaborar en cualquier tipo de proyecto.
 - 📫  Contacto: reinocampisiemmanuel@gmail.com.
-- 👨‍💻  Buscando mejorar cada dia
+- 🧠  Buscando mejorar cada dia
 
 ***
 

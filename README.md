@@ -17,7 +17,7 @@
 
 
 **Languages and Tools**
-[![My Skills](https://skillicons.dev/icons?i=c,java,mysql,spring,discord,git,github,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,mysql,spring,discord,git,github,flutter&perline=1)](https://skillicons.dev)
 
 
 
@@ -37,7 +37,4 @@
 
 <br />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/emmanuelReinoCampisi/count.svg" />
-</p>
+

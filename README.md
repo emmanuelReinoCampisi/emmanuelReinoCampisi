@@ -15,6 +15,13 @@
 
 ***
 
+
+**Languages and Tools**
+[![My Skills](https://skillicons.dev/icons?i=c,java,mysql,spring,discord,git,github,flutter&perline=3)](https://skillicons.dev)
+
+
+
+***
  <br>
 
 📈 My Github stats <br />
@@ -27,13 +34,6 @@
 
 
 <br>
-
-**Languages and Tools**
-[![My Skills](https://skillicons.dev/icons?i=c,java,mysql,spring,discord,git,github,flutter&perline=3)](https://skillicons.dev)
-
-
-
-***
 
 <br />
 

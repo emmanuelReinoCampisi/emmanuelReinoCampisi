@@ -9,7 +9,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  Desarrollador backend en formacion
-- 🌱  Estoy aprendiendo Java y SpringBoot. 
+- 🌱  Estoy aprendiendo Java y Spring. 
 - 💬  Dispuesto a colaborar en cualquier tipo de proyecto.
 - 📫  Contacto: reinocampisiemmanuel@gmail.com.
 - 🧠  Buscando mejorar cada dia
